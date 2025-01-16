@@ -1,0 +1,13 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "sdl.h": "c",
+        "vector.h": "c",
+        "mesh.h": "c",
+        "math.h": "c",
+        "stdlib.h": "c",
+        "stdint.h": "c",
+        "triangle.h": "c",
+        "sdl_mixer.h": "c"
+    }
+}
